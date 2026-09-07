@@ -5,7 +5,7 @@ about:
   head: 95f3629
   archived: false
   latestVersion: "v2.3.0"
-  collectedAt: 2026-09-07T04:58:15Z
+  collectedAt: 2026-09-07T19:26:11Z
 timeline:
   created: 2022-09-07
   lastCommit: 2026-06-23
@@ -80,7 +80,7 @@ total:
   commit: 337
 ---
 path: /home/runner/.x-repo/github.com/bschaatsbergen/cidr
-collectedAt: 2026-09-07T04:58:16Z
+collectedAt: 2026-09-07T19:26:12Z
 loc:
   Go:
     code: 1235
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:58:16+00:00
+  collectedAt: 2026-09-07T19:26:13+00:00
   platform:
     darwin/arm64:
       name:  cidr_2.3.0_darwin_arm64.tar.gz
