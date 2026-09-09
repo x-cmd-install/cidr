@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1643991,
       "digest": "sha256:973096662464dac2c1405eda0d74ba606f08c979574067567cd3ce4cb1dccfc1",
-      "download_count": 412,
+      "download_count": 413,
       "created_at": "2025-09-13T17:51:56Z",
       "updated_at": "2025-09-13T17:51:57Z",
       "browser_download_url": "https://github.com/bschaatsbergen/cidr/releases/download/v2.3.0/cidr_2.3.0_linux_amd64.tar.gz"

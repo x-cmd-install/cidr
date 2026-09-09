@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.0"
   latestRelease: "v2.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:07:06Z
+  collectedAt: 2026-09-09T19:34:00Z
 timeline:
   created: 2022-09-07
   lastCommit: 2026-06-23
@@ -84,7 +84,7 @@ total:
   commit: 337
 ---
 path: /home/runner/.x-repo/github.com/bschaatsbergen/cidr
-collectedAt: 2026-09-09T05:07:08Z
+collectedAt: 2026-09-09T19:34:01Z
 loc:
   Go:
     code: 1235
