@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1643991,
       "digest": "sha256:973096662464dac2c1405eda0d74ba606f08c979574067567cd3ce4cb1dccfc1",
-      "download_count": 464,
+      "download_count": 466,
       "created_at": "2025-09-13T17:51:56Z",
       "updated_at": "2025-09-13T17:51:57Z",
       "browser_download_url": "https://github.com/bschaatsbergen/cidr/releases/download/v2.3.0/cidr_2.3.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1737912,
       "digest": "sha256:925de0f2c11c078263cebf7d223a6fab7b7571a67c2901dc02aaa8df377bc3bb",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2025-09-13T17:51:57Z",
       "updated_at": "2025-09-13T17:51:57Z",
       "browser_download_url": "https://github.com/bschaatsbergen/cidr/releases/download/v2.3.0/cidr_2.3.0_windows_amd64.tar.gz"
